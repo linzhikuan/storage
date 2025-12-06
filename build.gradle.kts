@@ -7,7 +7,7 @@ plugins {
 apply(from = "${rootProject.projectDir}/gradles/library.gradle")
 
 android {
-    namespace = "com.lzk.demo.core.storage"
+    namespace = "com.lzk.core.storage"
 }
 
 dependencies {
