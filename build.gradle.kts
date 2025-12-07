@@ -12,5 +12,5 @@ android {
 
 dependencies {
     // DataStore dependencies
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation(libs.datastore.preferences)
 }
